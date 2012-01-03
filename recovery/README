@@ -1,0 +1,4 @@
+This folder contains files essential to the LG Revolution 4g's recovery.
+
+postrecoveryboot.sh is ran right after /sbin/recovery is initialized
+it resets the boot command, and tells clockwork to ignore LG's bootloader messages...
